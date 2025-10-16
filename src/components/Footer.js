@@ -44,7 +44,7 @@ export default function Footer() {
           <div className="flex flex-col md:flex-row md:justify-between gap-8">
             {/* Links */}
             <div>
-              <h3 className="font-semibold text-gray-900 mb-3">Regal</h3>
+              <h3 className="font-semibold text-gray-900 mb-3">Regal Old Money Store</h3>
               <ul className="space-y-2">
                 <li><a href="/apparel" className="text-gray-600 hover:text-gray-900">Apparel</a></li>
                 <li><a href="/accessories" className="text-gray-600 hover:text-gray-900">Accessories</a></li>
